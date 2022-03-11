@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsItadori
+- 👋 Hi, I’m AyushRaut
 - 👀 I’m interested in learning about softwares and developing it.
 - 🌱 I’m currently learning  Engineering in Information technology.
 - 💞️ I’m looking to collaborate on  projects related to webdevlopment and coading(java).
